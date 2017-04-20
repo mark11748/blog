@@ -8,16 +8,25 @@ Something something filler text.
 
 ## A list of random things:
 
-<li> bacon
+* bacon
 
-<li> jerky
+* jerky
 
-<li> steak
+* steak
 
-<li> rubber
+* rubber
 
-<li> hockey
+* hockey
 
-<li> boats
+* boats
 
-<li> SPAAAACE!
+* SPAAAACE!
+
+## And Now For Something Completely Different...  
+
+![a thing](http://lorempixel.com/400/200/)
+
+1. StarWars
+2. PrettyInPink
+3. TheBreakfastClub
+4. Valleygirl
